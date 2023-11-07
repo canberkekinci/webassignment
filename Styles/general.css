@@ -1,0 +1,46 @@
+* {
+    font-family: sans-serif;
+}
+
+body {
+    background: url("../space.jpeg") no-repeat;
+    background-size: cover;
+    margin: 0;
+    color: white;
+}
+
+li, a, button {
+    text-decoration: none;
+}
+
+.aboutus-container {
+    margin: 35px 25px;
+}
+
+.aboutus-logo {
+    float: left;
+    width: 800px;
+    border-radius: 20px;
+    margin-right: 14px;
+    margin-bottom: 34px;
+}
+
+.aboutus-right-text {
+    font-size: 20px;
+}
+
+.aboutus-bottom-text {
+    clear: left;
+    font-size: 35px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.products-h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.contacts-section {
+    margin: 35px 25px;
+}
